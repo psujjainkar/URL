@@ -10,3 +10,7 @@ CSV HEADER;
 
 
 https://docs.geoserver.org/latest/en/user/styling/sld/reference/rules.html#scale-selection
+
+
+javascript catch zoom level
+https://gist.github.com/Kubo2/6c818624b2995cd34f20
