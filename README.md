@@ -24,3 +24,5 @@ https://codepen.io/lembitk/pen/vyGxoO
 https://docs.mapbox.com/mapbox-gl-js/example/add-3d-model/
 
 https://codepen.io/vcomics/pen/BaLLNza
+
+https://www.youtube.com/watch?v=r-FhvEDwATE
