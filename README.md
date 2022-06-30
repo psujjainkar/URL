@@ -26,3 +26,6 @@ https://docs.mapbox.com/mapbox-gl-js/example/add-3d-model/
 https://codepen.io/vcomics/pen/BaLLNza
 
 https://www.youtube.com/watch?v=r-FhvEDwATE
+
+open layers styles :
+https://gis.stackexchange.com/questions/126668/writing-style-function-in-openlayers
