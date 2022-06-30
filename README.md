@@ -29,3 +29,5 @@ https://www.youtube.com/watch?v=r-FhvEDwATE
 
 open layers styles :
 https://gis.stackexchange.com/questions/126668/writing-style-function-in-openlayers
+
+https://gis.stackexchange.com/questions/172728/how-can-i-fill-polygon-with-strokes-in-openlayers-3
