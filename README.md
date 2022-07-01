@@ -31,3 +31,6 @@ open layers styles :
 https://gis.stackexchange.com/questions/126668/writing-style-function-in-openlayers
 
 https://gis.stackexchange.com/questions/172728/how-can-i-fill-polygon-with-strokes-in-openlayers-3
+
+jQuery Drop Down Sorting : 
+http://jsfiddle.net/74c2M/4/
