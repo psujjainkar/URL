@@ -34,3 +34,7 @@ https://gis.stackexchange.com/questions/172728/how-can-i-fill-polygon-with-strok
 
 jQuery Drop Down Sorting : 
 http://jsfiddle.net/74c2M/4/
+
+
+polygob center open layers:
+https://gis.stackexchange.com/questions/52331/how-to-setcenter-for-polylines-and-polygons
