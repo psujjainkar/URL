@@ -36,5 +36,12 @@ jQuery Drop Down Sorting :
 http://jsfiddle.net/74c2M/4/
 
 
-polygob center open layers:
+polygon center open layers:
 https://gis.stackexchange.com/questions/52331/how-to-setcenter-for-polylines-and-polygons
+
+vector icon size on zoom level :
+https://gis.stackexchange.com/questions/130603/how-to-resize-a-feature-and-prevent-it-from-scaling-when-zooming-in-openlayers-3
+
+
+
+
